@@ -1,5 +1,3 @@
-Claro! Aqui está uma lista com alguns dos comandos e conceitos mais importantes em Java para o FTC (FIRST Tech Challenge):
-
 ### 1. **Estruturas Básicas**
    - `public class`: Declaração de uma classe.
    - `public static void main(String[] args)`: Método principal.
