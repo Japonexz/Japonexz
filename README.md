@@ -2,8 +2,8 @@
    - `public class`: Declaração de uma classe.
    - `public static void main(String[] args)`: Método principal.
 
-### 2. **Controle de Fluxo**
-   - `if`, `else if`, `else`: Estruturas condicionais.    (VARIAVEIS) 
+### 2. **Controle de Fluxo** (VARIAVEIS)
+   - `if`, `else if`, `else`: Estruturas condicionais.    
    - `switch`: Estrutura de seleção múltipla.
    - `for`, `while`, `do while`: Laços de repetição.
 
